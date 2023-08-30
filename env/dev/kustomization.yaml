@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/taftsanders/demo-app
-  newTag: 67bfeadef6c0a86365c81bcdb9c429255bb3b59c
+  newTag: 0dc4dbfe7297779a72cfe9869032dbdd4ecc6337
